@@ -12,8 +12,8 @@ This project was done as the course project for IFT6390 course at UdeM in fall'1
 
 ## Project team members
 
-[Akilesh B](https://github.com/akileshbadrinaaraayanan)
-[Kundan Kumar](https://github.com/kundan2510)
-[Pravish Sainath](https://github.com/pravishsainath)
-[Swechha](https://github.com/swechhachoudhary/)
-[Vicki Anand](https://github.com/vickianand)
+[Akilesh B](https://github.com/akileshbadrinaaraayanan) <br>
+[Kundan Kumar](https://github.com/kundan2510) <br>
+[Pravish Sainath](https://github.com/pravishsainath) <br>
+[Swechha](https://github.com/swechhachoudhary/) <br>
+[Vicki Anand](https://github.com/vickianand) <br>
